@@ -1,0 +1,9 @@
+Building HongKongCoin
+
+See doc/readme-qt.rst for instructions on building HongKongCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HongKongCoin.
+
+See doc/build-*.txt for instructions on building hongkongcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of HongKongCoin.
